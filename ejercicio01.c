@@ -60,7 +60,7 @@ int main(){
 
     int a,no_elementos;
 
-    printf ("Ingresa la cantidad de números que deseas añadir al conjunto: \n");
+    printf ("Ingresa la cantidad de números enteros que deseas añadir al conjunto: \n");
     scanf("%i",&no_elementos);
 
     for(int i=0;i<no_elementos;i++){
